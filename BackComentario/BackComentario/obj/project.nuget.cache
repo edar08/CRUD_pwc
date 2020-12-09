@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QhOLsKsxSFw6cusQe6LI8eDqJR8Cm68qRNIidL1iJ1wBt3F7ipuRHaYVtmn4cg+oqk62vA2JVkC23oKLFz9biA==",
+  "dgSpecHash": "TPAfshY+I0VE4F6TS0TWZO5yzK9a5xDjcArOi6F20Z5vk11AwgWMlEKZClXyH8UPttDx1yhUSSQrqsFq8ek2RQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edar0\\OneDrive\\Escritorio\\Comentarios\\BackComentario\\BackComentario\\BackComentario.csproj",
+  "projectFilePath": "D:\\Edar_Documents\\GIT_ANGULAR\\Git_3\\CRUD_pwc\\BackComentario\\BackComentario\\BackComentario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edar0\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\edar0\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",

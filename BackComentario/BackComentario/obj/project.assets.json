@@ -7697,11 +7697,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edar0\\OneDrive\\Escritorio\\Comentarios\\BackComentario\\BackComentario\\BackComentario.csproj",
+      "projectUniqueName": "D:\\Edar_Documents\\GIT_ANGULAR\\Git_3\\CRUD_pwc\\BackComentario\\BackComentario\\BackComentario.csproj",
       "projectName": "BackComentario",
-      "projectPath": "C:\\Users\\edar0\\OneDrive\\Escritorio\\Comentarios\\BackComentario\\BackComentario\\BackComentario.csproj",
+      "projectPath": "D:\\Edar_Documents\\GIT_ANGULAR\\Git_3\\CRUD_pwc\\BackComentario\\BackComentario\\BackComentario.csproj",
       "packagesPath": "C:\\Users\\edar0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edar0\\OneDrive\\Escritorio\\Comentarios\\BackComentario\\BackComentario\\obj\\",
+      "outputPath": "D:\\Edar_Documents\\GIT_ANGULAR\\Git_3\\CRUD_pwc\\BackComentario\\BackComentario\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -7771,7 +7771,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

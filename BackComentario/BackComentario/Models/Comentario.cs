@@ -14,7 +14,7 @@ namespace BackComentario.Models
         [Required]
         public string Creador { get; set; }
         [Required]
-        public string Texto { get; set; }
+        public string descripcion { get; set; }
         [Required]
         public DateTime FechaCreacion { get; set; }
        
